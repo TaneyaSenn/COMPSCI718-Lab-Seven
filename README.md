@@ -1,6 +1,6 @@
 # COMPSCI718-Lab-Seven
 
-`COMPSCI718-Lab-Seven/src/ictgradschool/``
+``COMPSCI718-Lab-Seven/src/ictgradschool/``
 
 Exercise one: Try & catch
 
